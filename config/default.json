@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://lantz123:lantz123@devconnector-ex7rc.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "06f333440582e6d2b17e",
+  "githubSecret": "ed076859b5415ab938d9019184e6c3e4937f6928"
+}
